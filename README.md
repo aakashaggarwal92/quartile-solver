@@ -1,7 +1,3 @@
-# quartile-solver
-python quartile solver
-
-
 Quartiles Solver
 ================
 A command‑line helper to crack Apple News+ **Quartiles** puzzles.
